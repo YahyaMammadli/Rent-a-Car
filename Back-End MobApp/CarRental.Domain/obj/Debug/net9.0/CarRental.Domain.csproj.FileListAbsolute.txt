@@ -1,0 +1,11 @@
+C:\Users\ACER\Desktop\Car-Rental\Back-End MobApp\CarRental.Domain\bin\Debug\net9.0\CarRental.Domain.deps.json
+C:\Users\ACER\Desktop\Car-Rental\Back-End MobApp\CarRental.Domain\bin\Debug\net9.0\CarRental.Domain.dll
+C:\Users\ACER\Desktop\Car-Rental\Back-End MobApp\CarRental.Domain\bin\Debug\net9.0\CarRental.Domain.pdb
+C:\Users\ACER\Desktop\Car-Rental\Back-End MobApp\CarRental.Domain\obj\Debug\net9.0\CarRental.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Car-Rental\Back-End MobApp\CarRental.Domain\obj\Debug\net9.0\CarRental.Domain.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Car-Rental\Back-End MobApp\CarRental.Domain\obj\Debug\net9.0\CarRental.Domain.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Car-Rental\Back-End MobApp\CarRental.Domain\obj\Debug\net9.0\CarRental.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Car-Rental\Back-End MobApp\CarRental.Domain\obj\Debug\net9.0\CarRental.Domain.dll
+C:\Users\ACER\Desktop\Car-Rental\Back-End MobApp\CarRental.Domain\obj\Debug\net9.0\refint\CarRental.Domain.dll
+C:\Users\ACER\Desktop\Car-Rental\Back-End MobApp\CarRental.Domain\obj\Debug\net9.0\CarRental.Domain.pdb
+C:\Users\ACER\Desktop\Car-Rental\Back-End MobApp\CarRental.Domain\obj\Debug\net9.0\ref\CarRental.Domain.dll

@@ -1,0 +1,93 @@
+@host = http://localhost:5080
+
+###
+POST {{host}}/api/auth/sign-up
+Content-Type: application/json
+
+{ "name": "John", "email": "john@example.com", "password": "Passw0rd!", "confirmPassword": "Passw0rd!" }
+
+###
+POST {{host}}/api/auth/sign-in
+Content-Type: application/json
+
+{ "email": "john@example.com", "password": "Passw0rd!" }
+
+###
+@token = PASTE_TOKEN_HERE
+@refreshToken = PASTE_REFRESH_TOKEN_HERE
+
+###
+POST {{host}}/api/auth/refresh
+Content-Type: application/json
+
+{ "refreshToken": "{{refreshToken}}" }
+
+###
+POST {{host}}/api/auth/logout
+Content-Type: application/json
+
+{ "refreshToken": "{{refreshToken}}" }
+
+###
+POST {{host}}/api/auth/logout-all
+Authorization: Bearer {{token}}
+
+###
+GET {{host}}/api/brands
+
+###
+GET {{host}}/api/cars?brand=bentley&page=1&pageSize=10
+
+###
+GET {{host}}/api/cars/bentley-continental-gt
+
+###
+PUT {{host}}/api/driver-details/me
+Authorization: Bearer {{token}}
+Content-Type: multipart/form-data; boundary=X
+
+--X
+Content-Disposition: form-data; name="FullName"
+
+John Doe
+--X
+Content-Disposition: form-data; name="Phone"
+
++994501234567
+--X
+Content-Disposition: form-data; name="Address"
+
+Baku, Nizami str. 1
+--X
+Content-Disposition: form-data; name="NationalId"
+
+AZE1234567
+--X
+Content-Disposition: form-data; name="LicenceNumber"
+
+AB123456
+--X
+Content-Disposition: form-data; name="LicenceExpiry"
+
+2030-05-20
+--X
+Content-Disposition: form-data; name="LicencePhoto"; filename="licence.jpg"
+Content-Type: image/jpeg
+
+< ./licence.jpg
+--X--
+
+###
+GET {{host}}/api/driver-details/me
+Authorization: Bearer {{token}}
+
+###
+POST {{host}}/api/bookings
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{ "carId": "bentley-continental-gt", "startDate": "2026-11-10", "endDate": "2026-11-13" }
+
+###
+GET {{host}}/api/bookings/my
+Authorization: Bearer {{token}}

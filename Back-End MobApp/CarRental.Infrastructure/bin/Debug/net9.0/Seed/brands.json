@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "bentley",
+    "name": "Bentley",
+    "logoUrl": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/bentley.png"
+  },
+  {
+    "slug": "bmw",
+    "name": "BMW",
+    "logoUrl": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/bmw.png"
+  },
+  {
+    "slug": "byd",
+    "name": "BYD",
+    "logoUrl": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/byd.png"
+  },
+  {
+    "slug": "chevrolet",
+    "name": "Chevrolet",
+    "logoUrl": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/chevrolet.png"
+  },
+  {
+    "slug": "ferrari",
+    "name": "Ferrari",
+    "logoUrl": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/ferrari.png"
+  },
+  {
+    "slug": "ford",
+    "name": "Ford",
+    "logoUrl": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/ford.png"
+  },
+  {
+    "slug": "lamborghini",
+    "name": "Lamborghini",
+    "logoUrl": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/lamborghini.png"
+  },
+  {
+    "slug": "lexus",
+    "name": "Lexus",
+    "logoUrl": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/lexus.png"
+  },
+  {
+    "slug": "mazda",
+    "name": "Mazda",
+    "logoUrl": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/mazda.png"
+  },
+  {
+    "slug": "mercedes-benz",
+    "name": "Mercedes-Benz",
+    "logoUrl": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/mercedes-benz.png"
+  },
+  {
+    "slug": "mitsubishi",
+    "name": "Mitsubishi",
+    "logoUrl": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/mitsubishi.png"
+  },
+  {
+    "slug": "porsche",
+    "name": "Porsche",
+    "logoUrl": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/porsche.png"
+  }
+]

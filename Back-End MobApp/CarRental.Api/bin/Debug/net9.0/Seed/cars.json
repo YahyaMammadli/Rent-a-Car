@@ -1,0 +1,866 @@
+[
+  {
+    "id": "bentley-continental-gt",
+    "brandSlug": "bentley",
+    "model": "Continental GT",
+    "year": 2024,
+    "type": "Luxury Coupe",
+    "seats": 4,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 1200,
+    "imageUrl": "https://www.bentleymotors.com/content/dam/bentley/Master/Models/Continental%20GT/Mulliner/hero/continental-gt-mulliner-hero-1398x1398.jpg",
+    "features": [
+      "Leather Interior",
+      "Premium Sound System",
+      "Navigation",
+      "All-Wheel Drive"
+    ]
+  },
+  {
+    "id": "bentley-bentayga",
+    "brandSlug": "bentley",
+    "model": "Bentayga",
+    "year": 2024,
+    "type": "Luxury SUV",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Hybrid",
+    "pricePerDay": 1500,
+    "imageUrl": "https://www.bentleymotors.com/content/dam/bentley/Master/Models/Bentayga/Bentayga%20EWB/22MY/Bentayga-EWB-1398x1398.jpg",
+    "features": [
+      "Panoramic Roof",
+      "Premium Sound System",
+      "All-Wheel Drive",
+      "Adaptive Cruise Control"
+    ]
+  },
+  {
+    "id": "bentley-flying-spur",
+    "brandSlug": "bentley",
+    "model": "Flying Spur",
+    "year": 2024,
+    "type": "Luxury Sedan",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 1300,
+    "imageUrl": "https://www.bentleymotors.com/content/dam/bentley/Master/Models/Flying%20Spur/Flying%20Spur%20Hybrid/22MY/Flying-Spur-Hybrid-hero-1398x1398.jpg",
+    "features": [
+      "Executive Rear Seats",
+      "Premium Audio",
+      "Night Vision",
+      "Massage Seats"
+    ]
+  },
+  {
+    "id": "bentley-continental-gtc",
+    "brandSlug": "bentley",
+    "model": "Continental GTC",
+    "year": 2024,
+    "type": "Luxury Convertible",
+    "seats": 4,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 1400,
+    "imageUrl": "https://www.bentleymotors.com/content/dam/bentley/Master/Models/Continental%20GT/Continental%20GT%20Convertible/Convertible%20Speed/22MY/Continental-GTC-Speed-hero-1398x1398.jpg",
+    "features": [
+      "Convertible Top",
+      "Premium Leather",
+      "Bang & Olufsen Audio",
+      "All-Wheel Drive"
+    ]
+  },
+  {
+    "id": "bmw-3-series",
+    "brandSlug": "bmw",
+    "model": "3 Series",
+    "year": 2024,
+    "type": "Sport Sedan",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 150,
+    "imageUrl": "https://mystrongad.com/MWB_MotorwerksBMW/Digital/3%20Series/2024/2024-BMW-3-Series-Gray.webp",
+    "features": [
+      "Sport Package",
+      "Navigation",
+      "Parking Sensors",
+      "Keyless Entry"
+    ]
+  },
+  {
+    "id": "bmw-x5",
+    "brandSlug": "bmw",
+    "model": "X5",
+    "year": 2024,
+    "type": "Luxury SUV",
+    "seats": 7,
+    "transmission": "Automatic",
+    "fuelType": "Diesel",
+    "pricePerDay": 200,
+    "imageUrl": "https://alcf.s3.us-west-1.amazonaws.com/_custom/2024/bmw/x5/2024%20bmw%20x5%20m%20competition.png",
+    "features": [
+      "Third Row Seats",
+      "Panoramic Roof",
+      "All-Wheel Drive",
+      "Harman Kardon Audio"
+    ]
+  },
+  {
+    "id": "bmw-m4",
+    "brandSlug": "bmw",
+    "model": "M4",
+    "year": 2024,
+    "type": "Sports Coupe",
+    "seats": 4,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 300,
+    "imageUrl": "https://platform.cstatic-images.com/in/v2/stock_photos/981613ec-608c-44f3-adb6-da9504230dd9/877169ea-ff6b-4175-8c64-3e0e4a7f4313.png",
+    "features": [
+      "M Sport Package",
+      "Carbon Fiber Trim",
+      "Track Mode",
+      "Performance Brakes"
+    ]
+  },
+  {
+    "id": "bmw-i4",
+    "brandSlug": "bmw",
+    "model": "i4",
+    "year": 2024,
+    "type": "Electric Sedan",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Electric",
+    "pricePerDay": 180,
+    "imageUrl": "https://dealerimages.dealereprocess.com/image/upload/c_limit,f_auto,fl_lossy,w_600/v1/svp/dep/24bmwi4grancoupe/bmw_24i4grancoupe_angularfront_alpinewhite",
+    "features": [
+      "Electric Drive",
+      "Fast Charging",
+      "Autopilot",
+      "Premium Interior"
+    ]
+  },
+  {
+    "id": "byd-seal",
+    "brandSlug": "byd",
+    "model": "Seal",
+    "year": 2024,
+    "type": "Electric Sedan",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Electric",
+    "pricePerDay": 90,
+    "imageUrl": "https://www.byd.com/content/dam/byd-site/eu/seal/seal-hero.jpg",
+    "features": [
+      "Long Range Battery",
+      "Fast Charging",
+      "Advanced Safety",
+      "Smart Cockpit"
+    ]
+  },
+  {
+    "id": "byd-atto-3",
+    "brandSlug": "byd",
+    "model": "Atto 3",
+    "year": 2024,
+    "type": "Electric SUV",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Electric",
+    "pricePerDay": 95,
+    "imageUrl": "https://www.byd.com/content/dam/byd-site/eu/atto3/atto3-hero.jpg",
+    "features": [
+      "Spacious Interior",
+      "Regenerative Braking",
+      "LED Lights",
+      "Touchscreen Display"
+    ]
+  },
+  {
+    "id": "byd-tang",
+    "brandSlug": "byd",
+    "model": "Tang",
+    "year": 2024,
+    "type": "Electric SUV",
+    "seats": 7,
+    "transmission": "Automatic",
+    "fuelType": "Electric",
+    "pricePerDay": 120,
+    "imageUrl": "https://www.byd.com/content/dam/byd-site/cn/tang/tang-hero.jpg",
+    "features": [
+      "Third Row Seats",
+      "All-Wheel Drive",
+      "Premium Package",
+      "Large Battery"
+    ]
+  },
+  {
+    "id": "byd-dolphin",
+    "brandSlug": "byd",
+    "model": "Dolphin",
+    "year": 2024,
+    "type": "Electric Hatchback",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Electric",
+    "pricePerDay": 70,
+    "imageUrl": "https://www.byd.com/content/dam/byd-site/eu/dolphin/dolphin-hero.jpg",
+    "features": [
+      "Compact Design",
+      "City Friendly",
+      "Modern Interior",
+      "Efficient Battery"
+    ]
+  },
+  {
+    "id": "chevrolet-camaro",
+    "brandSlug": "chevrolet",
+    "model": "Camaro",
+    "year": 2024,
+    "type": "Sports Coupe",
+    "seats": 4,
+    "transmission": "Manual",
+    "fuelType": "Petrol",
+    "pricePerDay": 180,
+    "imageUrl": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/performance/camaro/mov/01-images/2024-camaro-masthead-01.jpg",
+    "features": [
+      "V8 Engine",
+      "Sport Suspension",
+      "Performance Mode",
+      "Racing Seats"
+    ]
+  },
+  {
+    "id": "chevrolet-tahoe",
+    "brandSlug": "chevrolet",
+    "model": "Tahoe",
+    "year": 2024,
+    "type": "Full-Size SUV",
+    "seats": 8,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 160,
+    "imageUrl": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/crossovers-suvs/tahoe/mov/01-images/2024-tahoe-masthead-01.jpg",
+    "features": [
+      "Three Row Seating",
+      "Large Cargo Space",
+      "Towing Package",
+      "Entertainment System"
+    ]
+  },
+  {
+    "id": "chevrolet-silverado",
+    "brandSlug": "chevrolet",
+    "model": "Silverado 1500",
+    "year": 2024,
+    "type": "Pickup Truck",
+    "seats": 6,
+    "transmission": "Automatic",
+    "fuelType": "Diesel",
+    "pricePerDay": 140,
+    "imageUrl": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/trucks/silverado-1500/mov/01-images/2024-silverado-1500-masthead-01.jpg",
+    "features": [
+      "Heavy Duty",
+      "Towing Capacity",
+      "Bed Liner",
+      "4x4 Drive"
+    ]
+  },
+  {
+    "id": "chevrolet-corvette",
+    "brandSlug": "chevrolet",
+    "model": "Corvette",
+    "year": 2024,
+    "type": "Sports Car",
+    "seats": 2,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 350,
+    "imageUrl": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/performance/corvette-stingray/mov/01-images/2024-corvette-stingray-masthead-01.jpg",
+    "features": [
+      "Mid-Engine",
+      "Track Package",
+      "Carbon Fiber",
+      "Launch Control"
+    ]
+  },
+  {
+    "id": "ferrari-roma",
+    "brandSlug": "ferrari",
+    "model": "Roma",
+    "year": 2024,
+    "type": "Grand Tourer",
+    "seats": 4,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 2000,
+    "imageUrl": "https://www.ferrari.com/content/dam/ferrari/common/models/roma/overview/ferrari-roma-overview-hero-desktop.jpg",
+    "features": [
+      "V8 Turbo",
+      "Italian Craftsmanship",
+      "Sport Mode",
+      "Premium Leather"
+    ]
+  },
+  {
+    "id": "ferrari-f8",
+    "brandSlug": "ferrari",
+    "model": "F8 Tributo",
+    "year": 2024,
+    "type": "Sports Car",
+    "seats": 2,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 2500,
+    "imageUrl": "https://www.ferrari.com/content/dam/ferrari/common/models/f8-tributo/overview/ferrari-f8-tributo-overview-hero-desktop.jpg",
+    "features": [
+      "720 HP",
+      "Carbon Fiber Body",
+      "Race Mode",
+      "Aerodynamic Design"
+    ]
+  },
+  {
+    "id": "ferrari-sf90",
+    "brandSlug": "ferrari",
+    "model": "SF90 Stradale",
+    "year": 2024,
+    "type": "Hybrid Supercar",
+    "seats": 2,
+    "transmission": "Automatic",
+    "fuelType": "Hybrid",
+    "pricePerDay": 3500,
+    "imageUrl": "https://www.ferrari.com/content/dam/ferrari/common/models/sf90-stradale/overview/ferrari-sf90-stradale-overview-hero-desktop.jpg",
+    "features": [
+      "Plug-in Hybrid",
+      "1000 HP",
+      "Electric Mode",
+      "Advanced Aerodynamics"
+    ]
+  },
+  {
+    "id": "ferrari-812",
+    "brandSlug": "ferrari",
+    "model": "812 Superfast",
+    "year": 2024,
+    "type": "Grand Tourer",
+    "seats": 2,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 2800,
+    "imageUrl": "https://www.ferrari.com/content/dam/ferrari/common/models/812-superfast/overview/ferrari-812-superfast-overview-hero-desktop.jpg",
+    "features": [
+      "V12 Engine",
+      "800 HP",
+      "Carbon Ceramic Brakes",
+      "Luxury Interior"
+    ]
+  },
+  {
+    "id": "ford-mustang",
+    "brandSlug": "ford",
+    "model": "Mustang",
+    "year": 2024,
+    "type": "Sports Coupe",
+    "seats": 4,
+    "transmission": "Manual",
+    "fuelType": "Petrol",
+    "pricePerDay": 130,
+    "imageUrl": "https://mdm.n3rd.ca/storage/images/vehicles/2024/ford/mustang/439084/medium_exteriorGallery_2024-ford-mustang-gt-haut-niveau-a-toit-fuyant-1692903229.webp",
+    "features": [
+      "V8 Engine Option",
+      "Performance Pack",
+      "Sport Seats",
+      "Track Apps"
+    ]
+  },
+  {
+    "id": "ford-f150",
+    "brandSlug": "ford",
+    "model": "F-150",
+    "year": 2024,
+    "type": "Pickup Truck",
+    "seats": 6,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 120,
+    "imageUrl": "https://vehicle-images.dealerinspire.com/stock-images/thumbnails/large/chrome/dc6ae3efa086c8ec297f12785be34911.png",
+    "features": [
+      "Aluminum Body",
+      "Best-in-Class Towing",
+      "Pro Trailer Backup",
+      "Smart Technology"
+    ]
+  },
+  {
+    "id": "ford-explorer",
+    "brandSlug": "ford",
+    "model": "Explorer",
+    "year": 2024,
+    "type": "SUV",
+    "seats": 7,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 110,
+    "imageUrl": "https://d2qldpouxvc097.cloudfront.net/image-by-path?bucket=a5-gallery-serverless-prod-chromebucket-1iz9ffi08lwxm&key=450243%2Ffront34%2Flg%2Fe4e4e3",
+    "features": [
+      "Third Row",
+      "All-Wheel Drive",
+      "B&O Sound System",
+      "Rear Entertainment"
+    ]
+  },
+  {
+    "id": "ford-bronco",
+    "brandSlug": "ford",
+    "model": "Bronco",
+    "year": 2024,
+    "type": "Off-Road SUV",
+    "seats": 5,
+    "transmission": "Manual",
+    "fuelType": "Petrol",
+    "pricePerDay": 140,
+    "imageUrl": "https://d2qldpouxvc097.cloudfront.net/image-by-path?bucket=a5-gallery-serverless-prod-chromebucket-1iz9ffi08lwxm&key=447192%2Ffront34%2Flg%2Fe5c778",
+    "features": [
+      "Removable Doors",
+      "Off-Road Package",
+      "Terrain Management",
+      "Washable Interior"
+    ]
+  },
+  {
+    "id": "lamborghini-huracan",
+    "brandSlug": "lamborghini",
+    "model": "Huracán",
+    "year": 2024,
+    "type": "Supercar",
+    "seats": 2,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 2200,
+    "imageUrl": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/huracan/2023/03_29_refresh/model_chooser/huracan_evo_rwd_m.png",
+    "features": [
+      "V10 Engine",
+      "All-Wheel Drive",
+      "Carbon Fiber",
+      "Active Aerodynamics"
+    ]
+  },
+  {
+    "id": "lamborghini-urus",
+    "brandSlug": "lamborghini",
+    "model": "Urus",
+    "year": 2024,
+    "type": "Super SUV",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 1800,
+    "imageUrl": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/urus/2023/03_29_refresh/model_chooser/urus_performante_m.png",
+    "features": [
+      "650 HP",
+      "Sport Mode",
+      "Luxury Interior",
+      "Advanced 4WD"
+    ]
+  },
+  {
+    "id": "lamborghini-aventador",
+    "brandSlug": "lamborghini",
+    "model": "Aventador",
+    "year": 2024,
+    "type": "Supercar",
+    "seats": 2,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 3000,
+    "imageUrl": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/aventador/2021/09_09/model_chooser/aventador_ultimae_m.png",
+    "features": [
+      "V12 Engine",
+      "769 HP",
+      "Scissor Doors",
+      "Carbon Monocoque"
+    ]
+  },
+  {
+    "id": "lamborghini-revuelto",
+    "brandSlug": "lamborghini",
+    "model": "Revuelto",
+    "year": 2024,
+    "type": "Hybrid Supercar",
+    "seats": 2,
+    "transmission": "Automatic",
+    "fuelType": "Hybrid",
+    "pricePerDay": 3500,
+    "imageUrl": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/revuelto/over/s_02.png",
+    "features": [
+      "Plug-in Hybrid",
+      "1001 HP",
+      "Electric Mode",
+      "Next-Gen Design"
+    ]
+  },
+  {
+    "id": "lexus-es",
+    "brandSlug": "lexus",
+    "model": "ES 350",
+    "year": 2024,
+    "type": "Luxury Sedan",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 110,
+    "imageUrl": "https://www.lexus.com/content/dam/lexus/images/models/es/2024/gallery/exterior/Lexus-ES-350-Eminent-White-Pearl.jpg",
+    "features": [
+      "Luxury Package",
+      "Mark Levinson Audio",
+      "Panoramic View",
+      "Apple CarPlay"
+    ]
+  },
+  {
+    "id": "lexus-rx",
+    "brandSlug": "lexus",
+    "model": "RX 350",
+    "year": 2024,
+    "type": "Luxury SUV",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Hybrid",
+    "pricePerDay": 140,
+    "imageUrl": "https://www.lexus.com/content/dam/lexus/images/models/rx/2024/gallery/exterior/Lexus-RX-350-Luxury-Grecian-Water.jpg",
+    "features": [
+      "Hybrid Engine",
+      "Premium Interior",
+      "All-Wheel Drive",
+      "Advanced Safety"
+    ]
+  },
+  {
+    "id": "lexus-lx",
+    "brandSlug": "lexus",
+    "model": "LX 600",
+    "year": 2024,
+    "type": "Full-Size SUV",
+    "seats": 7,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 200,
+    "imageUrl": "https://www.lexus.com/content/dam/lexus/images/models/lx/2024/gallery/exterior/Lexus-LX-600-Luxury-Black-Onyx.jpg",
+    "features": [
+      "Twin-Turbo V6",
+      "Off-Road Package",
+      "Ultra Luxury",
+      "Third Row Seats"
+    ]
+  },
+  {
+    "id": "lexus-lc",
+    "brandSlug": "lexus",
+    "model": "LC 500",
+    "year": 2024,
+    "type": "Luxury Coupe",
+    "seats": 4,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 250,
+    "imageUrl": "https://www.lexus.com/content/dam/lexus/images/models/lc/2024/gallery/exterior/Lexus-LC-500-Structural-Blue.jpg",
+    "features": [
+      "V8 Engine",
+      "Sport Package",
+      "Premium Sound",
+      "Head-Up Display"
+    ]
+  },
+  {
+    "id": "mazda-cx5",
+    "brandSlug": "mazda",
+    "model": "CX-5",
+    "year": 2024,
+    "type": "Compact SUV",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 80,
+    "imageUrl": "https://www.mazdausa.com/siteassets/vehicles/2024/cx-5/trims/cx-5-touring-select.png",
+    "features": [
+      "Skyactiv Technology",
+      "All-Wheel Drive",
+      "Bose Audio",
+      "Leather Seats"
+    ]
+  },
+  {
+    "id": "mazda-cx90",
+    "brandSlug": "mazda",
+    "model": "CX-90",
+    "year": 2024,
+    "type": "Midsize SUV",
+    "seats": 7,
+    "transmission": "Automatic",
+    "fuelType": "Hybrid",
+    "pricePerDay": 120,
+    "imageUrl": "https://www.mazdausa.com/siteassets/vehicles/2024/cx-90/trims/cx-90-turbo-sp.png",
+    "features": [
+      "Plug-in Hybrid",
+      "Third Row",
+      "Premium Interior",
+      "Advanced Safety"
+    ]
+  },
+  {
+    "id": "mazda-mx5",
+    "brandSlug": "mazda",
+    "model": "MX-5 Miata",
+    "year": 2024,
+    "type": "Roadster",
+    "seats": 2,
+    "transmission": "Manual",
+    "fuelType": "Petrol",
+    "pricePerDay": 90,
+    "imageUrl": "https://www.mazdausa.com/siteassets/vehicles/2024/mx-5-miata/trims/mx-5-miata-club.png",
+    "features": [
+      "Convertible",
+      "Sport Suspension",
+      "Lightweight",
+      "Manual Transmission"
+    ]
+  },
+  {
+    "id": "mazda-3",
+    "brandSlug": "mazda",
+    "model": "Mazda3",
+    "year": 2024,
+    "type": "Compact Sedan",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 65,
+    "imageUrl": "https://www.mazdausa.com/siteassets/vehicles/2024/mazda3/trims/mazda3-2.5-turbo.png",
+    "features": [
+      "Premium Interior",
+      "Turbo Option",
+      "Apple CarPlay",
+      "I-Activsense Safety"
+    ]
+  },
+  {
+    "id": "mercedes-c-class",
+    "brandSlug": "mercedes-benz",
+    "model": "C-Class",
+    "year": 2024,
+    "type": "Luxury Sedan",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 160,
+    "imageUrl": "https://mystrongad.com/MBR_MerecedesBenzofRoanoke/Interactive/C-Class/2024/2024-Mercedes-Benz-C-Class-Sedan-White.webp",
+    "features": [
+      "AMG Line",
+      "MBUX System",
+      "Burmester Audio",
+      "Advanced Driver Assist"
+    ]
+  },
+  {
+    "id": "mercedes-e-class",
+    "brandSlug": "mercedes-benz",
+    "model": "E-Class",
+    "year": 2024,
+    "type": "Executive Sedan",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Hybrid",
+    "pricePerDay": 200,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1wsiD-tvH9H3QJjXNFc1AYO9qd1jBiSOrXA&s",
+    "features": [
+      "Hybrid Technology",
+      "Executive Package",
+      "Air Suspension",
+      "Digital Cockpit"
+    ]
+  },
+  {
+    "id": "mercedes-gle",
+    "brandSlug": "mercedes-benz",
+    "model": "GLE-Class",
+    "year": 2024,
+    "type": "Luxury SUV",
+    "seats": 7,
+    "transmission": "Automatic",
+    "fuelType": "Diesel",
+    "pricePerDay": 220,
+    "imageUrl": "https://images.hgmsites.net/lrg/2024-mercedes-benz-gle-class-amg-gle-53-4matic-coupe-angular-front-exterior-view_100903296_l.webp",
+    "features": [
+      "Third Row Option",
+      "4MATIC",
+      "E-Active Body Control",
+      "Premium Package"
+    ]
+  },
+  {
+    "id": "mercedes-s-class",
+    "brandSlug": "mercedes-benz",
+    "model": "S-Class",
+    "year": 2024,
+    "type": "Luxury Sedan",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 350,
+    "imageUrl": "https://mkt-vehicleimages-prd.autotradercdn.ca/photos/chrome/Expanded/White/2024MBCCR0021/2024MBCCR002101.jpg",
+    "features": [
+      "Executive Rear Seats",
+      "Maybach Option",
+      "Burmester 4D Audio",
+      "Luxury Package"
+    ]
+  },
+  {
+    "id": "mitsubishi-outlander",
+    "brandSlug": "mitsubishi",
+    "model": "Outlander",
+    "year": 2024,
+    "type": "Compact SUV",
+    "seats": 7,
+    "transmission": "Automatic",
+    "fuelType": "Hybrid",
+    "pricePerDay": 85,
+    "imageUrl": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/en/vehicles/2024/outlander/vlp/2024-mitsubishi-outlander-hero.png",
+    "features": [
+      "Plug-in Hybrid",
+      "Third Row",
+      "All-Wheel Control",
+      "Modern Interior"
+    ]
+  },
+  {
+    "id": "mitsubishi-eclipse-cross",
+    "brandSlug": "mitsubishi",
+    "model": "Eclipse Cross",
+    "year": 2024,
+    "type": "Compact SUV",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 75,
+    "imageUrl": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/en/vehicles/2024/eclipse-cross/vlp/2024-mitsubishi-eclipse-cross-hero.png",
+    "features": [
+      "Sporty Design",
+      "Touchscreen Display",
+      "All-Wheel Drive",
+      "Head-Up Display"
+    ]
+  },
+  {
+    "id": "mitsubishi-pajero",
+    "brandSlug": "mitsubishi",
+    "model": "Pajero Sport",
+    "year": 2024,
+    "type": "SUV",
+    "seats": 7,
+    "transmission": "Automatic",
+    "fuelType": "Diesel",
+    "pricePerDay": 95,
+    "imageUrl": "https://www.mitsubishi-motors.com/content/dam/com/vehicles/pajero-sport/hero/pajero-sport-hero.jpg",
+    "features": [
+      "Off-Road Capable",
+      "Third Row Seats",
+      "Super Select 4WD",
+      "Hill Descent Control"
+    ]
+  },
+  {
+    "id": "mitsubishi-lancer",
+    "brandSlug": "mitsubishi",
+    "model": "Lancer Evolution",
+    "year": 2024,
+    "type": "Sport Sedan",
+    "seats": 5,
+    "transmission": "Manual",
+    "fuelType": "Petrol",
+    "pricePerDay": 110,
+    "imageUrl": "https://www.mitsubishi-motors.com/content/dam/com/vehicles/lancer/hero/lancer-evo-hero.jpg",
+    "features": [
+      "Turbo Engine",
+      "All-Wheel Drive",
+      "Sport Package",
+      "Performance Suspension"
+    ]
+  },
+  {
+    "id": "porsche-911",
+    "brandSlug": "porsche",
+    "model": "911 Carrera",
+    "year": 2024,
+    "type": "Sports Car",
+    "seats": 4,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 800,
+    "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/992-carrera-modelimage-sideshot/model/cfbb8ed3-1a15-11ea-80c4-005056bbdc38/porsche-model.png",
+    "features": [
+      "Flat-Six Engine",
+      "Sport Chrono Package",
+      "PDK Transmission",
+      "Active Suspension"
+    ]
+  },
+  {
+    "id": "porsche-cayenne",
+    "brandSlug": "porsche",
+    "model": "Cayenne",
+    "year": 2024,
+    "type": "Luxury SUV",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Hybrid",
+    "pricePerDay": 350,
+    "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/e3-2nd-cayenne-modelimage-sideshot/model/97c03e09-7b09-11ec-80ef-005056bbdc38/porsche-model.png",
+    "features": [
+      "Hybrid Powertrain",
+      "Air Suspension",
+      "Sport Package",
+      "Luxury Interior"
+    ]
+  },
+  {
+    "id": "porsche-taycan",
+    "brandSlug": "porsche",
+    "model": "Taycan",
+    "year": 2024,
+    "type": "Electric Sports Car",
+    "seats": 4,
+    "transmission": "Automatic",
+    "fuelType": "Electric",
+    "pricePerDay": 400,
+    "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/j1-taycan-modelimage-sideshot/model/f87e6a1f-48dd-11eb-80da-005056bbdc38/porsche-model.png",
+    "features": [
+      "800V Architecture",
+      "Fast Charging",
+      "Launch Control",
+      "Two-Speed Transmission"
+    ]
+  },
+  {
+    "id": "porsche-macan",
+    "brandSlug": "porsche",
+    "model": "Macan",
+    "year": 2024,
+    "type": "Compact SUV",
+    "seats": 5,
+    "transmission": "Automatic",
+    "fuelType": "Petrol",
+    "pricePerDay": 250,
+    "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/95b-macan-modelimage-sideshot/model/4bfe80b8-d4c5-11e9-80c5-005056bbdc38/porsche-model.png",
+    "features": [
+      "Sport Package",
+      "All-Wheel Drive",
+      "PCM System",
+      "Adaptive Air Suspension"
+    ]
+  }
+]
