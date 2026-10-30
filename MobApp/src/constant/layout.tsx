@@ -1,0 +1,42 @@
+export const layout = {
+    colors: {
+        primary: "#F9B401",
+        white: "#FFFFFF",
+        black: "#000000",
+        gray: "#808080",
+        iosBlack: "blue",
+        androidBlack: "green",
+        cardBackgroundLight: "#F5F6FA",
+        cardBackgroundDark: "#dcdcdc",
+    },
+    fonts: {
+        poppins: {
+            poppinsBlack: "Poppins-Black",
+            poppinsBlackItalic: "Poppins-BlackItalic",
+            poppinsBold: "Poppins-Bold",
+            poppinsBoldItalic: "Poppins-BoldItalic",
+            poppinsExtraBold: "Poppins-ExtraBold",
+            poppinsExtraBoldItalic: "Poppins-ExtraBoldItalic",
+            poppinsExtraLight: "Poppins-ExtraLight",
+            poppinsExtraLightItalic: "Poppins-ExtraLightItalic",
+            poppinsItalic: "Poppins-Italic",
+            poppinsLight: "Poppins-Light",
+            poppinsLightItalic: "Poppins-LightItalic",
+            poppinsMedium: "Poppins-Medium",
+            poppinsMediumItalic: "Poppins-MediumItalic",
+            poppinsRegular: "Poppins-Regular",
+            poppinsSemiBold: "Poppins-SemiBold",
+            poppinsSemiBoldItalic: "Poppins-SemiBoldItalic",
+            poppinsThin: "Poppins-Thin",
+            poppinsThinItalic: "Poppins-ThinItalic",
+        },
+        oswald: {
+            oswaldBold: "Oswald-Bold",
+            oswaldExtraLight: "Oswald-ExtraLight",
+            oswaldLight: "Oswald-Light",
+            oswaldMedium: "Oswald-Medium",
+            oswaldRegular: "Oswald-Regular",
+            oswaldSemiBold: "Oswald-SemiBold",
+        },
+    }
+}
