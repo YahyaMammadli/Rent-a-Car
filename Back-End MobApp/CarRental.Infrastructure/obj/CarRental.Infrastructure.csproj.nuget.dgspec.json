@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Infrastructure\\CarRental.Infrastructure.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Infrastructure\\CarRental.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Application\\CarRental.Application.csproj": {
+    "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Application\\CarRental.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Application\\CarRental.Application.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Application\\CarRental.Application.csproj",
         "projectName": "CarRental.Application",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Application\\CarRental.Application.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Application\\CarRental.Application.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Application\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Domain\\CarRental.Domain.csproj": {
-                "projectPath": "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Domain\\CarRental.Domain.csproj"
+              "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Domain\\CarRental.Domain.csproj": {
+                "projectPath": "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Domain\\CarRental.Domain.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Domain\\CarRental.Domain.csproj": {
+    "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Domain\\CarRental.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Domain\\CarRental.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Domain\\CarRental.Domain.csproj",
         "projectName": "CarRental.Domain",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Domain\\CarRental.Domain.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Domain\\CarRental.Domain.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Domain\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Infrastructure\\CarRental.Infrastructure.csproj": {
+    "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Infrastructure\\CarRental.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Infrastructure\\CarRental.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Infrastructure\\CarRental.Infrastructure.csproj",
         "projectName": "CarRental.Infrastructure",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Infrastructure\\CarRental.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Infrastructure\\CarRental.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -172,8 +172,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Application\\CarRental.Application.csproj": {
-                "projectPath": "C:\\Users\\ACER\\Desktop\\Car-Rental\\Back-End MobApp\\CarRental.Application\\CarRental.Application.csproj"
+              "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Application\\CarRental.Application.csproj": {
+                "projectPath": "C:\\Users\\ACER\\Desktop\\Entire\\it\\React Native\\Car-Rental\\Back-End MobApp\\CarRental.Application\\CarRental.Application.csproj"
               }
             }
           }
